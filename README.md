@@ -1,4 +1,5 @@
 # CNC_simulation-using-Python-turtle
+STILL WORKING
 A Python-based virtual CNC machine simulator that converts images into animated toolpath visualizations using edge detection and turtle graphics.
 
 Future Enhancements
